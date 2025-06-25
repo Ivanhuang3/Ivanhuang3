@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Ivan
-- 👀 I’m interested in American Stock、Trade、Foreign Exchange
-- 🌱 I’m focus AWS Cloud Knowledge、HTML、CSS、JS、JAVA、Python、Bash.
-- 📫 MY Email:saucyking3@gmail.com
-- MY linkedin:https://www.linkedin.com/in/huang0105
-- Donations are welcome:https://coff.ee/ivanhuang3
+👋 Hi, I’m Ivan Huang
+👀 Interested in: American Stock Market, Trading, Forex
+
+🌱 Learning Focus: AWS Cloud, HTML, CSS, JavaScript, Java, Python, Bash
+
+💼 LinkedIn: www.linkedin.com/in/huang0105
+
+📧 Email: saucyking3@gmail.com
+
+☕️ Support My Work: Buy me a coffee
+
+💻 If you’re looking for help with simple website development, feel free to send me an email to discuss the details!
