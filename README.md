@@ -1,7 +1,7 @@
 👋 Hi, I’m Ivan Huang
 👀 Interested in: American Stock Market, Trading, Forex
 
-🌱 Learning Focus: AWS Cloud, HTML, CSS, JavaScript, Java, Python, Bash
+🌱 Learning Focus: AWS Cloud, HTML, CSS, JavaScript, Java, Bash
 
 💼 LinkedIn: www.linkedin.com/in/huang0105
 
